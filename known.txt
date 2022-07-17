@@ -1,0 +1,21 @@
+primitive types  are stored as simple data type
+and reference types are  stored as objects.
+
+while other programming language distinguish 
+
+storing primitive on the stack and reference in the heap
+
+// This is a comment
+
+/* This is a
+multiline comment */
+
+constructor name starts with capital letter
+
+start from ProtoType passage
+
+start from page 57
+
+
+IIFE - immediately invoked function expression
+
